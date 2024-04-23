@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Final/Content/Blueprints/SwordBP.uasset",
+				"G:/Final/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/Final/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"G:/Final/Content/Blueprints/SwordBP1.uasset",
+				"G:/Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DF/ZFLYOICNWP3PARF2B5B2HV.uasset",
+				"G:/Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/U1/TEZY2554HMK287OHHNATZF.uasset",
+				"G:/Final/Content/Characters/Mannequins/Materials/M_Mannequin_Inst.uasset",
+				"G:/Final/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"G:/Final/Content/Characters/Mannequin_UE4/Animations/CrouchWalk.uasset",
+				"G:/Final/Content/Characters/Mannequin_UE4/Animations/Crouch.uasset",
+				"G:/Final/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"G:/Final/Content/Blueprints/Countdown.uasset",
+				"G:/Final/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"G:/Final/Content/Blueprints/Crowd.uasset",
+				"G:/Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/K0/YXUCPEAU4OQNDNEMV9GBF4.uasset",
+				"E:/Final/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
